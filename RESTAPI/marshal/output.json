@@ -1,0 +1,9 @@
+{
+	"name": "Damir",
+	"science_id": 12,
+	"is_orking": true,
+	"univer": {
+		"name": "MIT",
+		"city": "Ata"
+	}
+}

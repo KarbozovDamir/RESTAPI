@@ -1,0 +1,21 @@
+{
+    "users": [{
+            "name": "John",
+            "type": "Admin",
+            "age": 33,
+            "job": {
+                "backend": "Java",
+                "frontend": "TS"
+            }
+        },
+        {
+            "name": "Brad",
+            "type": "Security",
+            "age": 35,
+            "job": {
+                "backend": "Go",
+                "frontend": "JS"
+            }
+        }
+    ]
+}
